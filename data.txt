@@ -1,0 +1,6 @@
+google.com | roman@me.com | 12345
+facebook.com | roman@me.com | 54321
+instagram.com | roman@me.com | abcde
+lenta.ru | roman@me.com | 123456
+amazos | roman@me.com | asdfasf
+sdfa | roman@me.com | zxzcvzx1211
